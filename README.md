@@ -5,6 +5,7 @@
 *Visualization:*<br> 
 - Tableau<br>
 - Gephi<br>
-_Machine Learning with Python:_<br> 
+
+**Machine Learning with Python:**<br> 
     - K-Means<br>
     - Multilinear Regression
