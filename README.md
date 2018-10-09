@@ -2,6 +2,5 @@
 
 
 
-Immigration Explanation: Provides rationale and references for the Immigration Dashboard
-
-Immigration: An Exploratory Dashboard in Tableau 
+Visualization: Tableau and Gephi
+Machine Learning: K-Means and Multilinear Regression using Python
