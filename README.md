@@ -2,7 +2,7 @@
 
 
 
-*Visualization:*<br> 
+**Visualization:**<br> 
 - Tableau<br>
 - Gephi<br>
 
