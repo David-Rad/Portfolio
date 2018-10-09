@@ -3,4 +3,4 @@
 
 
 Visualization: Tableau and Gephi<br>
-Machine Learning: K-Means and Multilinear Regression using Python
+Machine Learning with Python: K-Means and Multilinear Regression
