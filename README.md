@@ -5,7 +5,7 @@ hi | you
 wonderful | beast
 
 
-**Machine Learning with Python:**<br> 
+**Machine Learning with Python:**<br> | up
 --- | ---
 - K-Means<br> | Python
 - Multilinear Regression<br>
