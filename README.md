@@ -2,12 +2,13 @@
 
 
 hi | you
+--- | ---
 wonderful | beast
 
 
-**Machine Learning with Python:**<br> | up
+**Machine Learning with Python:**<br> 
 --- | ---
-- K-Means<br> | Python
+- K-Means<br> 
 - Multilinear Regression<br>
 <br>
 
