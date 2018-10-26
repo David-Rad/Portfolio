@@ -11,7 +11,7 @@ Multilinear Regression | Python
 Visualization | Topic
 --- | ---
 K-Means | Tableau
-Multilinear Regression | Gephi
+Multilinear Regression w/ Backward Elimination | Gephi
 
 
 **Machine Learning with Python:**<br> 
