@@ -5,7 +5,7 @@
 
 
 **Machine Learning with Python:**<br> 
-- K-Means<br>
+- K-Means<br> | Python
 - Multilinear Regression<br>
 <br>
 
