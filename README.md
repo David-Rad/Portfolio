@@ -1,7 +1,7 @@
 # Portfolio
 
 
-Machine Learning with Python | Language
+Machine Learning | Language
 --- | ---
 K-Means | Python
 Multilinear Regression w/ Backward Elimination | Python
