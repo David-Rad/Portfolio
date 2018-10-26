@@ -4,14 +4,14 @@
 Machine Learning with Python | Language
 --- | ---
 K-Means | Python
-Multilinear Regression | Python
+Multilinear Regression w/ Backward Elimination | Python
 
 
 
 Visualization | Topic
 --- | ---
-K-Means | Tableau
-Multilinear Regression w/ Backward Elimination | Gephi
+Tableau | Immigration
+Gephi | Grammar School Social Network
 
 
 **Machine Learning with Python:**<br> 
