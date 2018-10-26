@@ -1,7 +1,14 @@
 # Portfolio
 
 
-Machine Learning with Python | Visualization
+Machine Learning with Python | Language
+--- | ---
+K-Means | Python
+Multilinear Regression | Python
+
+
+
+Visualization | Topic
 --- | ---
 K-Means | Tableau
 Multilinear Regression | Gephi
