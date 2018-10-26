@@ -1,10 +1,12 @@
 # Portfolio
 
 
-
+hi | you
+wonderful | beast
 
 
 **Machine Learning with Python:**<br> 
+--- | ---
 - K-Means<br> | Python
 - Multilinear Regression<br>
 <br>
