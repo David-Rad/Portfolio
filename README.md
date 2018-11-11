@@ -3,7 +3,7 @@
 
 Machine Learning | Language
 --- | ---
-Decision Tree, Random Forest, and Gradient Boosting w/ Cross Validation | Python
+Decision Trees, Random Forests, and Gradient Boosting w/ Cross Validation | Python
 K-Means | Python
 Multilinear Regression w/ Backward Elimination | Python
 Preprocessing | Python
