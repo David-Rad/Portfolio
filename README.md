@@ -15,7 +15,7 @@ Preprocessing | Python
 
 Visualization | Dataset
 --- | ---
-**Tableau** | Immigration
+Tableau | Immigration
 Gephi | Grammar School Social Network
 
 
