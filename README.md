@@ -3,10 +3,10 @@
 
 Machine Learning | Language
 --- | ---
+Decision Tree, Random Forest, and Gradient Boosting w/ Cross Validation | Python
 K-Means | Python
 Multilinear Regression w/ Backward Elimination | Python
 Preprocessing | Python
-Decision Tree, Random Forest, and Gradient Boosting w/ Cross Validation | Python
 
 
 
@@ -18,9 +18,15 @@ Tableau | Immigration
 Gephi | Grammar School Social Network
 
 
+
+
+
+
 **Machine Learning with Python:**<br> 
+- Decision Tree, Random Forest, and Gradient Boosting w/ Cross Validation | Python<br>
 - K-Means<br> 
 - Multilinear Regression<br>
+- Preprocessing
 <br>
 
 **Visualization:**<br> 
@@ -28,9 +34,3 @@ Gephi | Grammar School Social Network
 - Gephi<br>
 
 
-
-
-
-### Key Project Dates
-* **:** Deadline for discussing your project idea(s) with an instructor
-* **:** Project question and dataset (write-up)
