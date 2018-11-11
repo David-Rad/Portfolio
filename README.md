@@ -5,6 +5,8 @@ Machine Learning | Language
 --- | ---
 K-Means | Python
 Multilinear Regression w/ Backward Elimination | Python
+Preprocessing | Python
+Decision Tree, Random Forest, and Gradient Boosting w/ Cross Validation | Python
 
 
 
