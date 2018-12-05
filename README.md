@@ -1,10 +1,10 @@
 # Portfolio
 
 
-Machine Learning | Language
+Machine Learning | Language | d
 --- | --- | ---
 Decision Trees, Random Forests, and Gradient Boosting w/ Cross Validation | Python
-K-Means | Python
+K-Means | Python | dd
 Multilinear Regression w/ Backward Elimination | Python
 Preprocessing | Python
 
