@@ -7,6 +7,7 @@ Decision Trees, Random Forests, and Gradient Boosting | w/ Cross Validation | Py
 K-Means |  | Python 
 KNN | w/ Grid Search for Hyperparamter Tuning | Python
 Multilinear Regression | w/ Backward Elimination | Python
+Naive Bayes and SVM | w/ cross vailidation | Python
 Preprocessing | and Analysis | Python
 
 
