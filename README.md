@@ -3,11 +3,11 @@
 
 Machine Learning | Notes | Language 
 --- | --- | ---
-Decision Trees, Random Forests, and Gradient Boosting | w/ Cross Validation | Python
-K-Means |  | Python 
-KNN | w/ Grid Search for Hyperparamter Tuning | Python
-Multilinear Regression | w/ Backward Elimination | Python
-Naive Bayes and SVM | w/ cross vailidation | Python
+Decision Trees, Random Forests, and Gradient Boosting | w/ Cross Validation | Classification
+K-Means |  | Clustering 
+KNN | w/ Grid Search for Hyperparamter Tuning | Classification
+Multilinear Regression | w/ Backward Elimination | Regression
+Naive Bayes and SVM | w/ cross vailidation | Classificatoin
 Preprocessing | and Analysis | Python
 
 
