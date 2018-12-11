@@ -8,7 +8,7 @@ K-Means |  | Python
 KNN | w/ Grid Search for Hyperparamter Tuning | Python
 Multilinear Regression | w/ Test, Train, Split & Cross Validation | Python
 Naive Bayes and SVM | w/ cross vailidation | Python
-Preprocessing | and Analysis | Python
+Preprocessing |  | Python
 
 
 
